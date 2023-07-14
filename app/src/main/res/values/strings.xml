@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">photoAlubumApp</string>
+    <string name="app_name">photoAlbumApp</string>
+    <string name ="lemon_tree">Just A  lemon tree</string>
+    <string name ="squeezed_lemon">Squeezed Lemon</string>
+    <string name ="lemon_tree_2015_davinci">2015 Da Vinci</string>
+    <string name ="squeezed_lemon_2018_vangoch">2018 Van Goch</string>
+    <string name ="next_photo">Next</string>
+    <string name ="previous_photo">Previous</string>
 </resources>
