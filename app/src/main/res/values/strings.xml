@@ -1,9 +1,58 @@
 <resources>
     <string name="app_name">photoAlbumApp</string>
-    <string name ="lemon_tree">Just A  lemon tree</string>
-    <string name ="squeezed_lemon">Squeezed Lemon</string>
-    <string name ="lemon_tree_2015_davinci">2015 Da Vinci</string>
-    <string name ="squeezed_lemon_2018_vangoch">2018 Van Goch</string>
-    <string name ="next_photo">Next</string>
+
+    <string name ="mona_lisa_title">Mona Lisa (The Louvre, Paris)</string>
+    <string name ="mona_lisa_description">The Mona Lisa</string>
+    <string name ="mona_lisa_painter">Leonardo da Vinci </string>
+    <string name ="mona_lisa_year"> 1519</string>
+
+    <string name ="guernica_title">Guernica (Museo Reina Sofia, Madrid)</string>
+    <string name ="guernica_painter">Picasso </string>
+    <string name ="guernica_year">1937</string>
+    <string name ="guernica_description">guernica</string>
+
+    <string name ="the_girl_with_pearl_title">The Girl With A Pearl Earring (Mauritschuis, The Hague)</string>
+    <string name ="the_girl_with_pearl_painter">Johannes Vermeer </string>
+    <string name ="the_girl_with_pearl_year">1665</string>
+    <string name ="the_girl_with_pearl_description">the girl with a pearl earring </string>
+
+    <string name ="persistence_of_memory_title">The Persistence Of Memory (Museum Of Modern Art, New York)</string>
+    <string name ="persistence_of_memory_painter">Salvador Dali </string>
+    <string name ="persistence_of_memory_year">1931</string>
+    <string name ="persistence_of_memory_description">The Persistence of Memory</string>
+
+    <string name ="the_birth_of_venus_title">The Birth Of Venus (Uffizi Gallery, Florence)</string>
+    <string name ="the_birth_of_venus_painter">Sandro Botticelli</string>
+    <string name ="the_birth_of_venus_year">1480</string>
+    <string name ="the_birth_of_venus_description">The Birth Of Venus </string>
+
+    <string name ="starry_night_title">The Starry Night (Museum Of Modern Art, New York)</string>
+    <string name ="starry_night_painter">Vincent van Gogh</string>
+    <string name ="starry_night_year">1941</string>
+    <string name ="starry_night_description">The Starry Night </string>
+
+    <string name ="the_night_watch_title">The Night Watch (Rijksmuseum, Amsterdam)</string>
+    <string name ="the_night_watch_painter">Leonardo da Vinci</string>
+    <string name ="the_night_watch_year">1495 and 1498</string>
+    <string name ="the_night_watch_description">The Night Watch </string>
+
+    <string name ="the_last_supper_title">The Last Supper (Santa Maria Delle Grazie Monastery, Milan)</string>
+    <string name ="the_last_supper_painter">Rembrandt </string>
+    <string name ="the_last_supper_year">1642</string>
+    <string name ="the_last_supper_description">The Last Supper </string>
+
+    <string name ="the_scream_title">The Scream (National Gallery, Oslo)</string>
+    <string name ="the_scream_painter">Edvard Munch</string>
+    <string name ="the_scream_year">1893</string>
+    <string name ="the_scream_description">The Scream </string>
+
+    <string name ="whistlers_mothers_title">Whistler\'s Mother (Musée D\'Orsay, Paris)</string>
+    <string name ="whistlers_mothers_painter">James McNeill </string>
+    <string name ="whistlers_mothers_year">1871</string>
+    <string name ="whistlers_mothers_description">Whistler\'s Mother</string>
+
+
     <string name ="previous_photo">Previous</string>
+    <string name ="next_photo">Next</string>
+
 </resources>
